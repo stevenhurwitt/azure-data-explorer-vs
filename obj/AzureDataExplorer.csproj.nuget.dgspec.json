@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\azure-data-explorer\\AzureDataExplorer\\AzureDataExplorer.csproj": {}
+  },
+  "projects": {
+    "F:\\azure-data-explorer\\AzureDataExplorer\\AzureDataExplorer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\azure-data-explorer\\AzureDataExplorer\\AzureDataExplorer.csproj",
+        "projectName": "AzureDataExplorer",
+        "projectPath": "F:\\azure-data-explorer\\AzureDataExplorer\\AzureDataExplorer.csproj",
+        "packagesPath": "C:\\Users\\steven_admin\\.nuget\\packages\\",
+        "outputPath": "F:\\azure-data-explorer\\AzureDataExplorer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\steven_admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Azure.Kusto.Cloud.Platform": {
+              "target": "Package",
+              "version": "[8.1.5, )"
+            },
+            "Microsoft.Azure.Kusto.Cloud.Platform.Azure": {
+              "target": "Package",
+              "version": "[8.1.5, )"
+            },
+            "Microsoft.Azure.Kusto.Cloud.Platform.Azure.NETStandard": {
+              "target": "Package",
+              "version": "[6.1.8, )"
+            },
+            "Microsoft.Azure.Kusto.Cloud.Platform.NETStandard": {
+              "target": "Package",
+              "version": "[6.1.8, )"
+            },
+            "Microsoft.Azure.Kusto.Data": {
+              "target": "Package",
+              "version": "[8.1.5, )"
+            },
+            "Microsoft.Azure.Kusto.Data.NETStandard": {
+              "target": "Package",
+              "version": "[6.1.8, )"
+            },
+            "Microsoft.Azure.Kusto.Ingest": {
+              "target": "Package",
+              "version": "[8.1.5, )"
+            },
+            "Microsoft.Azure.Kusto.Ingest.NETStandard": {
+              "target": "Package",
+              "version": "[6.1.8, )"
+            },
+            "Microsoft.Azure.Kusto.Tools": {
+              "target": "Package",
+              "version": "[4.1.5, )"
+            },
+            "Microsoft.Azure.Management.Kusto": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IO.RecyclableMemoryStream": {
+              "target": "Package",
+              "version": "[1.3.5, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.7.3065, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.206, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Security.Cryptography.Encoding": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

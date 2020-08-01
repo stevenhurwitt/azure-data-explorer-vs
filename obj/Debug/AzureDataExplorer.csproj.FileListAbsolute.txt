@@ -1,0 +1,16 @@
+F:\azure-data-explorer\AzureDataExplorer\bin\Debug\AzureDataExplorer.dll
+F:\azure-data-explorer\AzureDataExplorer\bin\Debug\AzureDataExplorer.pdb
+F:\azure-data-explorer\AzureDataExplorer\bin\Debug\AzureDataExplorer.pkgdef
+F:\azure-data-explorer\AzureDataExplorer\bin\Debug\AzureDataExplorer.vsix
+F:\azure-data-explorer\AzureDataExplorer\bin\Debug\extension.vsixmanifest
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.csprojAssemblyReference.cache
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\_EmptyResource.resources
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.csproj.GenerateResource.cache
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.csproj.CoreCompileInputs.cache
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.dll
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.pdb
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.pkgdef
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\AzureDataExplorer.latest.pkgdef
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\extension.vsixmanifest
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\files.json
+F:\azure-data-explorer\AzureDataExplorer\obj\Debug\createTemplateManifests.cache
